@@ -1,0 +1,8 @@
+{
+    "color_scheme": "Packages/User/Wombat (SL).tmTheme",
+    "theme": "Wombat.sublime-theme",
+    "wombat_color_green": true,
+    "wombat_dirty_bottom_bar_green": true,
+    "ensure_newline_at_eof_on_save": true,
+    "translate_tabs_to_spaces": true
+}
