@@ -1,8 +1,19 @@
 {
-    "color_scheme": "Packages/User/Wombat (SL).tmTheme",
-    "theme": "Wombat.sublime-theme",
-    "wombat_color_green": true,
-    "wombat_dirty_bottom_bar_green": true,
-    "ensure_newline_at_eof_on_save": true,
-    "translate_tabs_to_spaces": true
+	"color_scheme": "Packages/User/brogrammer (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"theme": "Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
