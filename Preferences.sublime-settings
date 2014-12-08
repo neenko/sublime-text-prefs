@@ -15,5 +15,6 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"theme": "Brogrammer.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"auto_complete_commit_on_tab": false
 }
