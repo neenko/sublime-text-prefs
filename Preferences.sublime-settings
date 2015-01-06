@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": false,
 	"color_scheme": "Packages/User/brogrammer (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -7,14 +8,15 @@
 	[
 		"directwrite"
 	],
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"tab_size": 4,
 	"theme": "Brogrammer.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"auto_complete_commit_on_tab": false
+	"trim_trailing_white_space_on_save": true
 }
