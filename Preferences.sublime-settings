@@ -1,6 +1,7 @@
 {
 	"auto_complete_commit_on_tab": false,
-	"color_scheme": "Packages/User/brogrammer (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"default_line_ending": "system",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "DejaVu Sans Mono",
